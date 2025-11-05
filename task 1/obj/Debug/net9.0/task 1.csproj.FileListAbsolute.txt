@@ -1,0 +1,14 @@
+D:\final year workshop\task 1\task 1\bin\Debug\net9.0\task 1.exe
+D:\final year workshop\task 1\task 1\bin\Debug\net9.0\task 1.deps.json
+D:\final year workshop\task 1\task 1\bin\Debug\net9.0\task 1.runtimeconfig.json
+D:\final year workshop\task 1\task 1\bin\Debug\net9.0\task 1.dll
+D:\final year workshop\task 1\task 1\bin\Debug\net9.0\task 1.pdb
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.AssemblyInfoInputs.cache
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.AssemblyInfo.cs
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.csproj.CoreCompileInputs.cache
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.dll
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\refint\task 1.dll
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.pdb
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\task 1.genruntimeconfig.cache
+D:\final year workshop\task 1\task 1\obj\Debug\net9.0\ref\task 1.dll
